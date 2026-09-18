@@ -30,6 +30,10 @@ are some snapshots of a live shopping session, where the users begins by connect
 <img width="348" height="634" alt="image" src="https://github.com/user-attachments/assets/0d7e9bfc-bee1-44f1-a21b-fdb715fe02b5" />
 <img width="356" height="639" alt="image" src="https://github.com/user-attachments/assets/c7395dec-31d5-455d-ae0f-2db152445303" />
 <img width="360" height="619" alt="image" src="https://github.com/user-attachments/assets/88dc7e90-0cd1-4224-a570-0a81b64808d8" />
+<img width="349" height="620" alt="image" src="https://github.com/user-attachments/assets/1d8b85cf-bdcb-46e4-ae16-0b2dac381b46" />
+
+## Class Diagram 
+<img width="909" height="887" alt="image" src="https://github.com/user-attachments/assets/4cb315a5-7ddd-4082-996a-a8835860c68a" />
 
 ## How It Works
 The Navi-Qart system begins operation when the user selects a robotic cart that is unoccupied on Navi-Qart’s mobile app. Once a robot is selected, the robot is synced with the profile of the user, where it can receive
