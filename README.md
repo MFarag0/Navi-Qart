@@ -1,7 +1,7 @@
 # Navi-Qart: Design and Implementation of an Autonomous Shopping Cart with Grid-Based Navigation
 > **Note:** Source code is currently private/closed-source for now. This repo showcases the project's design and documentation only.
 ## Overview
-Short demo video of the robot in action: https://drive.google.com/file/d/1f9SJoHW_AML_yuuXWlHzMW8oweRDozNU/view?usp=sharing
+Short demo video of the robotic prototype in action: https://drive.google.com/file/d/1f9SJoHW_AML_yuuXWlHzMW8oweRDozNU/view?usp=sharing
 
 Grocery shopping is a routine task but can pose significant challenges, especially for elderly individuals, people with mobility limitations, or those managing health-related concerns such as allergies. Traditional
 shopping carts provide no assistance, leaving users to manage navigation, product search, and physical effort independently. For the public, the process remains time-consuming and inefficient. 
